@@ -1,1 +1,1 @@
-# my first argocd project
+# my second argocd project
