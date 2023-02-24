@@ -1,1 +1,1 @@
-# my first argocd project
+# my first argocd project for friday
