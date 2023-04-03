@@ -1,1 +1,1 @@
-# THIS IS my first argocd project for today ok
+here my first argocd project for today ok
