@@ -6,5 +6,6 @@ nice work!
 yes
 good job
 yes
+yes
 ok
 fine
