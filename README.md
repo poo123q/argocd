@@ -1,1 +1,1 @@
-Argocd gitops delivery
+Argocd gitops
